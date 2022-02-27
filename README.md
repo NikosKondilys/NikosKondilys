@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikosKondilys
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning html, css and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
